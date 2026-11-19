@@ -1,0 +1,1614 @@
+fileFormatVersion: 2
+guid: 7e686771dbfa9b64bb073fcf898e4936
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6423650788140834315
+    second: Cute Icy Cloud Sprite_0
+  - first:
+      213: 6423111921672821480
+    second: Cute Icy Cloud Sprite_1
+  - first:
+      213: -4665369380994120095
+    second: Cute Icy Cloud Sprite_2
+  - first:
+      213: -7666564816804264933
+    second: Cute Icy Cloud Sprite_3
+  - first:
+      213: -7908260329165511324
+    second: Cute Icy Cloud Sprite_4
+  - first:
+      213: 6515092671006375373
+    second: Cute Icy Cloud Sprite_5
+  - first:
+      213: 3190724604147302741
+    second: Cute Icy Cloud Sprite_6
+  - first:
+      213: -505215616568008706
+    second: Cute Icy Cloud Sprite_7
+  - first:
+      213: -8786859030676888643
+    second: Cute Icy Cloud Sprite_8
+  - first:
+      213: -2540510153342524071
+    second: Cute Icy Cloud Sprite_9
+  - first:
+      213: -4481328153917979910
+    second: Cute Icy Cloud Sprite_10
+  - first:
+      213: 957166927881912329
+    second: Cute Icy Cloud Sprite_11
+  - first:
+      213: 5115555756820993043
+    second: Cute Icy Cloud Sprite_12
+  - first:
+      213: -820249116716642803
+    second: Cute Icy Cloud Sprite_13
+  - first:
+      213: -7334759825707708335
+    second: Cute Icy Cloud Sprite_14
+  - first:
+      213: 6384281471020982737
+    second: Cute Icy Cloud Sprite_15
+  - first:
+      213: -1134996504484492288
+    second: Cute Icy Cloud Sprite_16
+  - first:
+      213: 5411607456384970213
+    second: Cute Icy Cloud Sprite_17
+  - first:
+      213: 1078152653501666976
+    second: Cute Icy Cloud Sprite_18
+  - first:
+      213: -42330391182404365
+    second: Cute Icy Cloud Sprite_19
+  - first:
+      213: 3664180608919222314
+    second: Cute Icy Cloud Sprite_20
+  - first:
+      213: 3158468520538993048
+    second: Cute Icy Cloud Sprite_21
+  - first:
+      213: 4751494644782726518
+    second: Cute Icy Cloud Sprite_22
+  - first:
+      213: 2899759749048827050
+    second: Cute Icy Cloud Sprite_23
+  - first:
+      213: 2060441675555727203
+    second: Cute Icy Cloud Sprite_24
+  - first:
+      213: -5055722578507162154
+    second: Cute Icy Cloud Sprite_25
+  - first:
+      213: 6153349607755488199
+    second: Cute Icy Cloud Sprite_26
+  - first:
+      213: 7951498412448885155
+    second: Cute Icy Cloud Sprite_27
+  - first:
+      213: -1206955090012410016
+    second: Cute Icy Cloud Sprite_28
+  - first:
+      213: 1431179447364533201
+    second: Cute Icy Cloud Sprite_29
+  - first:
+      213: -237986563861481686
+    second: Cute Icy Cloud Sprite_30
+  - first:
+      213: -6026156191851567251
+    second: Cute Icy Cloud Sprite_31
+  - first:
+      213: 7608890541487740452
+    second: Cute Icy Cloud Sprite_32
+  - first:
+      213: -8462816888315371100
+    second: Cute Icy Cloud Sprite_33
+  - first:
+      213: 561742307371194439
+    second: Cute Icy Cloud Sprite_34
+  - first:
+      213: 6439002117022043959
+    second: Cute Icy Cloud Sprite_35
+  - first:
+      213: -931717349215663565
+    second: Cute Icy Cloud Sprite_36
+  - first:
+      213: 3069301794473303260
+    second: Cute Icy Cloud Sprite_37
+  - first:
+      213: 8056064420706513984
+    second: Cute Icy Cloud Sprite_38
+  - first:
+      213: -5508558470387199364
+    second: Cute Icy Cloud Sprite_39
+  - first:
+      213: -4405688954132028063
+    second: Cute Icy Cloud Sprite_40
+  - first:
+      213: -8337032952119402253
+    second: Cute Icy Cloud Sprite_41
+  - first:
+      213: -2967840228539712186
+    second: Cute Icy Cloud Sprite_42
+  - first:
+      213: -4283280306093034615
+    second: Cute Icy Cloud Sprite_43
+  - first:
+      213: -5755858872300237598
+    second: Cute Icy Cloud Sprite_44
+  - first:
+      213: 2338364156395091271
+    second: Cute Icy Cloud Sprite_45
+  - first:
+      213: -1458815124283933149
+    second: Cute Icy Cloud Sprite_46
+  - first:
+      213: 7740927119716872888
+    second: Cute Icy Cloud Sprite_47
+  - first:
+      213: -6115058374746213815
+    second: Cute Icy Cloud Sprite_48
+  - first:
+      213: 7719750121576855174
+    second: Cute Icy Cloud Sprite_49
+  - first:
+      213: -3132933942939379195
+    second: Cute Icy Cloud Sprite_50
+  - first:
+      213: 6459929122848880732
+    second: Cute Icy Cloud Sprite_51
+  - first:
+      213: -4746242951033107641
+    second: Cute Icy Cloud Sprite_52
+  - first:
+      213: 909236986321889116
+    second: Cute Icy Cloud Sprite_53
+  - first:
+      213: 2568238376306405311
+    second: Cute Icy Cloud Sprite_54
+  - first:
+      213: -2541624578115254637
+    second: Cute Icy Cloud Sprite_55
+  - first:
+      213: 7165073868431101139
+    second: Cute Icy Cloud Sprite_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 1233
+        height: 1153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eda4c9b54652950800000000000000
+      internalID: 6423650788140834315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea92ebf24a732950800000000000000
+      internalID: 6423111921672821480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 999
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1668cd32447414fb0800000000000000
+      internalID: -4665369380994120095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 982
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14cfd61be3ea9590800000000000000
+      internalID: -7666564816804264933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 986
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465a6c06127304290800000000000000
+      internalID: -7908260329165511324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 982
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf51e04424a6a50800000000000000
+      internalID: 6515092671006375373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 970
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5518c4e4f1bb74c20800000000000000
+      internalID: 3190724604147302741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 964
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effdb7fc21d1df8f0800000000000000
+      internalID: -505215616568008706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 964
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db32211344ece0680800000000000000
+      internalID: -8786859030676888643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 968
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955eeb9c97b4ebcd0800000000000000
+      internalID: -2540510153342524071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 930
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af203cf79cf1fc1c0800000000000000
+      internalID: -4481328153917979910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 903
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9004727ef3a884d00800000000000000
+      internalID: 957166927881912329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 905
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31415028bda1ef640800000000000000
+      internalID: 5115555756820993043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 875
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ec6c236c3ed94f0800000000000000
+      internalID: -820249116716642803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 887
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150d2ebbcc2b53a90800000000000000
+      internalID: -7334759825707708335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 861
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1605a2c26899850800000000000000
+      internalID: 6384281471020982737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 877
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c44e051beaf30f0800000000000000
+      internalID: -1134996504484492288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 873
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed6ea54f44e91b40800000000000000
+      internalID: 5411607456384970213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 648
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a69c95402e56fe00800000000000000
+      internalID: 1078152653501666976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 612
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f49e56cbbc996ff0800000000000000
+      internalID: -42330391182404365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 588
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a283183a9d8c9d230800000000000000
+      internalID: 3664180608919222314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 578
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891faf8926225db20800000000000000
+      internalID: 3158468520538993048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 422
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67df1767433b0f140800000000000000
+      internalID: 4751494644782726518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 405
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacf700d0240e3820800000000000000
+      internalID: 2899759749048827050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 377
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367e8e789c8289c10800000000000000
+      internalID: 2060441675555727203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 351
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd9829e91776d9b0800000000000000
+      internalID: -5055722578507162154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 321
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb1e0dcdd6156550800000000000000
+      internalID: 6153349607755488199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 323
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a929126da5695e60800000000000000
+      internalID: 7951498412448885155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 331
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fe5f78db8004fe0800000000000000
+      internalID: -1206955090012410016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 335
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbb00aef129cd310800000000000000
+      internalID: 1431179447364533201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 337
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2778b72b7082bcf0800000000000000
+      internalID: -237986563861481686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 323
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67aaa71fdace5ca0800000000000000
+      internalID: -6026156191851567251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 286
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426d43442a5389960800000000000000
+      internalID: 7608890541487740452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a129c4c0e80e8a80800000000000000
+      internalID: -8462816888315371100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 278
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7481b2ef6a5bbc700800000000000000
+      internalID: 561742307371194439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 272
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f46156f4eeb5950800000000000000
+      internalID: 6439002117022043959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 271
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a8ee0e100e113f0800000000000000
+      internalID: -931717349215663565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 264
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcdc0068b9589a20800000000000000
+      internalID: 3069301794473303260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 283
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044ffd368e3eccf60800000000000000
+      internalID: 8056064420706513984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c721a1cb14bad83b0800000000000000
+      internalID: -5508558470387199364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 256
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16529121d39dbd2c0800000000000000
+      internalID: -4405688954132028063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 206
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0623893b8ec4c80800000000000000
+      internalID: -8337032952119402253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 254
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64db6c3590d10d6d0800000000000000
+      internalID: -2967840228539712186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 246
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983f5e1614bbe84c0800000000000000
+      internalID: -4283280306093034615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 238
+        width: 108
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec834bf9d41f10b0800000000000000
+      internalID: -5755858872300237598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 240
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7457f61afc9837020800000000000000
+      internalID: 2338364156395091271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 225
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eb614af5f31cbe0800000000000000
+      internalID: -1458815124283933149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b279e2c33c4d6b60800000000000000
+      internalID: 7740927119716872888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 224
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9427970aec2f22ba0800000000000000
+      internalID: -6115058374746213815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 224
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686fd57a5df022b60800000000000000
+      internalID: 7719750121576855174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 240
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a955a8d259584d0800000000000000
+      internalID: -3132933942939379195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 236
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58bb91af4746a950800000000000000
+      internalID: 6459929122848880732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 205
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b48f5ce25f12eb0800000000000000
+      internalID: -4746242951033107641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 216
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57ec52c8324e9c00800000000000000
+      internalID: 909236986321889116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfe446323734a320800000000000000
+      internalID: 2568238376306405311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 208
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396c90d89e55abcd0800000000000000
+      internalID: -2541624578115254637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Icy Cloud Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 97
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc054d98b47f6360800000000000000
+      internalID: 7165073868431101139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cute Icy Cloud Sprite_0: 6423650788140834315
+      Cute Icy Cloud Sprite_1: 6423111921672821480
+      Cute Icy Cloud Sprite_10: -4481328153917979910
+      Cute Icy Cloud Sprite_11: 957166927881912329
+      Cute Icy Cloud Sprite_12: 5115555756820993043
+      Cute Icy Cloud Sprite_13: -820249116716642803
+      Cute Icy Cloud Sprite_14: -7334759825707708335
+      Cute Icy Cloud Sprite_15: 6384281471020982737
+      Cute Icy Cloud Sprite_16: -1134996504484492288
+      Cute Icy Cloud Sprite_17: 5411607456384970213
+      Cute Icy Cloud Sprite_18: 1078152653501666976
+      Cute Icy Cloud Sprite_19: -42330391182404365
+      Cute Icy Cloud Sprite_2: -4665369380994120095
+      Cute Icy Cloud Sprite_20: 3664180608919222314
+      Cute Icy Cloud Sprite_21: 3158468520538993048
+      Cute Icy Cloud Sprite_22: 4751494644782726518
+      Cute Icy Cloud Sprite_23: 2899759749048827050
+      Cute Icy Cloud Sprite_24: 2060441675555727203
+      Cute Icy Cloud Sprite_25: -5055722578507162154
+      Cute Icy Cloud Sprite_26: 6153349607755488199
+      Cute Icy Cloud Sprite_27: 7951498412448885155
+      Cute Icy Cloud Sprite_28: -1206955090012410016
+      Cute Icy Cloud Sprite_29: 1431179447364533201
+      Cute Icy Cloud Sprite_3: -7666564816804264933
+      Cute Icy Cloud Sprite_30: -237986563861481686
+      Cute Icy Cloud Sprite_31: -6026156191851567251
+      Cute Icy Cloud Sprite_32: 7608890541487740452
+      Cute Icy Cloud Sprite_33: -8462816888315371100
+      Cute Icy Cloud Sprite_34: 561742307371194439
+      Cute Icy Cloud Sprite_35: 6439002117022043959
+      Cute Icy Cloud Sprite_36: -931717349215663565
+      Cute Icy Cloud Sprite_37: 3069301794473303260
+      Cute Icy Cloud Sprite_38: 8056064420706513984
+      Cute Icy Cloud Sprite_39: -5508558470387199364
+      Cute Icy Cloud Sprite_4: -7908260329165511324
+      Cute Icy Cloud Sprite_40: -4405688954132028063
+      Cute Icy Cloud Sprite_41: -8337032952119402253
+      Cute Icy Cloud Sprite_42: -2967840228539712186
+      Cute Icy Cloud Sprite_43: -4283280306093034615
+      Cute Icy Cloud Sprite_44: -5755858872300237598
+      Cute Icy Cloud Sprite_45: 2338364156395091271
+      Cute Icy Cloud Sprite_46: -1458815124283933149
+      Cute Icy Cloud Sprite_47: 7740927119716872888
+      Cute Icy Cloud Sprite_48: -6115058374746213815
+      Cute Icy Cloud Sprite_49: 7719750121576855174
+      Cute Icy Cloud Sprite_5: 6515092671006375373
+      Cute Icy Cloud Sprite_50: -3132933942939379195
+      Cute Icy Cloud Sprite_51: 6459929122848880732
+      Cute Icy Cloud Sprite_52: -4746242951033107641
+      Cute Icy Cloud Sprite_53: 909236986321889116
+      Cute Icy Cloud Sprite_54: 2568238376306405311
+      Cute Icy Cloud Sprite_55: -2541624578115254637
+      Cute Icy Cloud Sprite_56: 7165073868431101139
+      Cute Icy Cloud Sprite_6: 3190724604147302741
+      Cute Icy Cloud Sprite_7: -505215616568008706
+      Cute Icy Cloud Sprite_8: -8786859030676888643
+      Cute Icy Cloud Sprite_9: -2540510153342524071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
